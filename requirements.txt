@@ -1,0 +1,14 @@
+datasets
+pandas
+numpy
+pillow
+tqdm
+matplotlib
+seaborn
+pyarrow
+torch
+torchvision
+transformers
+accelerate
+faiss-cpu
+scikit-learn
