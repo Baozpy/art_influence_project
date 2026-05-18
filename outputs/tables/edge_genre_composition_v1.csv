@@ -1,0 +1,155 @@
+genre_pair,count,share,source_style,target_style,edge_label
+religious_painting → religious_painting,417,0.5219023779724656,Early_Renaissance,High_Renaissance,Early Renaissance → High Renaissance
+religious_painting → Unknown Genre,73,0.09136420525657071,Early_Renaissance,High_Renaissance,Early Renaissance → High Renaissance
+sketch_and_study → sketch_and_study,73,0.09136420525657071,Early_Renaissance,High_Renaissance,Early Renaissance → High Renaissance
+portrait → portrait,68,0.0851063829787234,Early_Renaissance,High_Renaissance,Early Renaissance → High Renaissance
+Unknown Genre → Unknown Genre,31,0.03879849812265332,Early_Renaissance,High_Renaissance,Early Renaissance → High Renaissance
+religious_painting → portrait,29,0.03629536921151439,Early_Renaissance,High_Renaissance,Early Renaissance → High Renaissance
+Unknown Genre → religious_painting,20,0.025031289111389236,Early_Renaissance,High_Renaissance,Early Renaissance → High Renaissance
+sketch_and_study → Unknown Genre,16,0.02002503128911139,Early_Renaissance,High_Renaissance,Early Renaissance → High Renaissance
+Unknown Genre → sketch_and_study,16,0.02002503128911139,Early_Renaissance,High_Renaissance,Early Renaissance → High Renaissance
+religious_painting → nude_painting,8,0.010012515644555695,Early_Renaissance,High_Renaissance,Early Renaissance → High Renaissance
+portrait → religious_painting,7,0.008760951188986232,Early_Renaissance,High_Renaissance,Early Renaissance → High Renaissance
+sketch_and_study → religious_painting,7,0.008760951188986232,Early_Renaissance,High_Renaissance,Early Renaissance → High Renaissance
+portrait → Unknown Genre,5,0.006257822277847309,Early_Renaissance,High_Renaissance,Early Renaissance → High Renaissance
+portrait → sketch_and_study,5,0.006257822277847309,Early_Renaissance,High_Renaissance,Early Renaissance → High Renaissance
+religious_painting → genre_painting,5,0.006257822277847309,Early_Renaissance,High_Renaissance,Early Renaissance → High Renaissance
+sketch_and_study → nude_painting,4,0.0050062578222778474,Early_Renaissance,High_Renaissance,Early Renaissance → High Renaissance
+sketch_and_study → portrait,4,0.0050062578222778474,Early_Renaissance,High_Renaissance,Early Renaissance → High Renaissance
+religious_painting → sketch_and_study,3,0.0037546933667083854,Early_Renaissance,High_Renaissance,Early Renaissance → High Renaissance
+illustration → religious_painting,2,0.0025031289111389237,Early_Renaissance,High_Renaissance,Early Renaissance → High Renaissance
+genre_painting → religious_painting,2,0.0025031289111389237,Early_Renaissance,High_Renaissance,Early Renaissance → High Renaissance
+genre_painting → genre_painting,1,0.0012515644555694619,Early_Renaissance,High_Renaissance,Early Renaissance → High Renaissance
+genre_painting → Unknown Genre,1,0.0012515644555694619,Early_Renaissance,High_Renaissance,Early Renaissance → High Renaissance
+cityscape → religious_painting,1,0.0012515644555694619,Early_Renaissance,High_Renaissance,Early Renaissance → High Renaissance
+landscape → sketch_and_study,1,0.0012515644555694619,Early_Renaissance,High_Renaissance,Early Renaissance → High Renaissance
+religious_painting → religious_painting,303,0.507537688442211,Early_Renaissance,Northern_Renaissance,Early Renaissance → Northern Renaissance
+religious_painting → Unknown Genre,59,0.09882747068676717,Early_Renaissance,Northern_Renaissance,Early Renaissance → Northern Renaissance
+portrait → portrait,52,0.08710217755443886,Early_Renaissance,Northern_Renaissance,Early Renaissance → Northern Renaissance
+religious_painting → portrait,24,0.04020100502512563,Early_Renaissance,Northern_Renaissance,Early Renaissance → Northern Renaissance
+sketch_and_study → sketch_and_study,22,0.03685092127303183,Early_Renaissance,Northern_Renaissance,Early Renaissance → Northern Renaissance
+religious_painting → genre_painting,17,0.02847571189279732,Early_Renaissance,Northern_Renaissance,Early Renaissance → Northern Renaissance
+sketch_and_study → Unknown Genre,16,0.02680067001675042,Early_Renaissance,Northern_Renaissance,Early Renaissance → Northern Renaissance
+Unknown Genre → Unknown Genre,15,0.02512562814070352,Early_Renaissance,Northern_Renaissance,Early Renaissance → Northern Renaissance
+Unknown Genre → religious_painting,12,0.020100502512562814,Early_Renaissance,Northern_Renaissance,Early Renaissance → Northern Renaissance
+sketch_and_study → portrait,11,0.018425460636515914,Early_Renaissance,Northern_Renaissance,Early Renaissance → Northern Renaissance
+sketch_and_study → religious_painting,8,0.01340033500837521,Early_Renaissance,Northern_Renaissance,Early Renaissance → Northern Renaissance
+portrait → religious_painting,8,0.01340033500837521,Early_Renaissance,Northern_Renaissance,Early Renaissance → Northern Renaissance
+sketch_and_study → genre_painting,7,0.011725293132328308,Early_Renaissance,Northern_Renaissance,Early Renaissance → Northern Renaissance
+genre_painting → religious_painting,7,0.011725293132328308,Early_Renaissance,Northern_Renaissance,Early Renaissance → Northern Renaissance
+landscape → landscape,6,0.010050251256281407,Early_Renaissance,Northern_Renaissance,Early Renaissance → Northern Renaissance
+religious_painting → sketch_and_study,4,0.006700167504187605,Early_Renaissance,Northern_Renaissance,Early Renaissance → Northern Renaissance
+religious_painting → cityscape,3,0.005025125628140704,Early_Renaissance,Northern_Renaissance,Early Renaissance → Northern Renaissance
+religious_painting → illustration,3,0.005025125628140704,Early_Renaissance,Northern_Renaissance,Early Renaissance → Northern Renaissance
+religious_painting → landscape,3,0.005025125628140704,Early_Renaissance,Northern_Renaissance,Early Renaissance → Northern Renaissance
+genre_painting → genre_painting,2,0.0033500837520938024,Early_Renaissance,Northern_Renaissance,Early Renaissance → Northern Renaissance
+landscape → sketch_and_study,2,0.0033500837520938024,Early_Renaissance,Northern_Renaissance,Early Renaissance → Northern Renaissance
+landscape → genre_painting,2,0.0033500837520938024,Early_Renaissance,Northern_Renaissance,Early Renaissance → Northern Renaissance
+Unknown Genre → sketch_and_study,2,0.0033500837520938024,Early_Renaissance,Northern_Renaissance,Early Renaissance → Northern Renaissance
+sketch_and_study → nude_painting,2,0.0033500837520938024,Early_Renaissance,Northern_Renaissance,Early Renaissance → Northern Renaissance
+landscape → religious_painting,1,0.0016750418760469012,Early_Renaissance,Northern_Renaissance,Early Renaissance → Northern Renaissance
+Unknown Genre → genre_painting,1,0.0016750418760469012,Early_Renaissance,Northern_Renaissance,Early Renaissance → Northern Renaissance
+sketch_and_study → cityscape,1,0.0016750418760469012,Early_Renaissance,Northern_Renaissance,Early Renaissance → Northern Renaissance
+illustration → sketch_and_study,1,0.0016750418760469012,Early_Renaissance,Northern_Renaissance,Early Renaissance → Northern Renaissance
+landscape → cityscape,1,0.0016750418760469012,Early_Renaissance,Northern_Renaissance,Early Renaissance → Northern Renaissance
+Unknown Genre → portrait,1,0.0016750418760469012,Early_Renaissance,Northern_Renaissance,Early Renaissance → Northern Renaissance
+portrait → sketch_and_study,1,0.0016750418760469012,Early_Renaissance,Northern_Renaissance,Early Renaissance → Northern Renaissance
+religious_painting → religious_painting,255,0.35664335664335667,High_Renaissance,Mannerism_Late_Renaissance,High Renaissance → Mannerism Late Renaissance
+portrait → portrait,182,0.2545454545454545,High_Renaissance,Mannerism_Late_Renaissance,High Renaissance → Mannerism Late Renaissance
+Unknown Genre → Unknown Genre,79,0.11048951048951049,High_Renaissance,Mannerism_Late_Renaissance,High Renaissance → Mannerism Late Renaissance
+religious_painting → Unknown Genre,53,0.07412587412587412,High_Renaissance,Mannerism_Late_Renaissance,High Renaissance → Mannerism Late Renaissance
+Unknown Genre → religious_painting,45,0.06293706293706294,High_Renaissance,Mannerism_Late_Renaissance,High Renaissance → Mannerism Late Renaissance
+sketch_and_study → sketch_and_study,21,0.02937062937062937,High_Renaissance,Mannerism_Late_Renaissance,High Renaissance → Mannerism Late Renaissance
+religious_painting → portrait,13,0.01818181818181818,High_Renaissance,Mannerism_Late_Renaissance,High Renaissance → Mannerism Late Renaissance
+portrait → Unknown Genre,11,0.015384615384615385,High_Renaissance,Mannerism_Late_Renaissance,High Renaissance → Mannerism Late Renaissance
+sketch_and_study → Unknown Genre,9,0.012587412587412588,High_Renaissance,Mannerism_Late_Renaissance,High Renaissance → Mannerism Late Renaissance
+portrait → religious_painting,8,0.011188811188811189,High_Renaissance,Mannerism_Late_Renaissance,High Renaissance → Mannerism Late Renaissance
+Unknown Genre → portrait,7,0.009790209790209791,High_Renaissance,Mannerism_Late_Renaissance,High Renaissance → Mannerism Late Renaissance
+sketch_and_study → nude_painting,4,0.005594405594405594,High_Renaissance,Mannerism_Late_Renaissance,High Renaissance → Mannerism Late Renaissance
+sketch_and_study → religious_painting,4,0.005594405594405594,High_Renaissance,Mannerism_Late_Renaissance,High Renaissance → Mannerism Late Renaissance
+genre_painting → religious_painting,4,0.005594405594405594,High_Renaissance,Mannerism_Late_Renaissance,High Renaissance → Mannerism Late Renaissance
+Unknown Genre → genre_painting,3,0.004195804195804196,High_Renaissance,Mannerism_Late_Renaissance,High Renaissance → Mannerism Late Renaissance
+Unknown Genre → still_life,2,0.002797202797202797,High_Renaissance,Mannerism_Late_Renaissance,High Renaissance → Mannerism Late Renaissance
+portrait → genre_painting,2,0.002797202797202797,High_Renaissance,Mannerism_Late_Renaissance,High Renaissance → Mannerism Late Renaissance
+still_life → Unknown Genre,2,0.002797202797202797,High_Renaissance,Mannerism_Late_Renaissance,High Renaissance → Mannerism Late Renaissance
+religious_painting → genre_painting,2,0.002797202797202797,High_Renaissance,Mannerism_Late_Renaissance,High Renaissance → Mannerism Late Renaissance
+religious_painting → cityscape,2,0.002797202797202797,High_Renaissance,Mannerism_Late_Renaissance,High Renaissance → Mannerism Late Renaissance
+religious_painting → sketch_and_study,2,0.002797202797202797,High_Renaissance,Mannerism_Late_Renaissance,High Renaissance → Mannerism Late Renaissance
+Unknown Genre → sketch_and_study,1,0.0013986013986013986,High_Renaissance,Mannerism_Late_Renaissance,High Renaissance → Mannerism Late Renaissance
+Unknown Genre → cityscape,1,0.0013986013986013986,High_Renaissance,Mannerism_Late_Renaissance,High Renaissance → Mannerism Late Renaissance
+Unknown Genre → nude_painting,1,0.0013986013986013986,High_Renaissance,Mannerism_Late_Renaissance,High Renaissance → Mannerism Late Renaissance
+genre_painting → Unknown Genre,1,0.0013986013986013986,High_Renaissance,Mannerism_Late_Renaissance,High Renaissance → Mannerism Late Renaissance
+nude_painting → religious_painting,1,0.0013986013986013986,High_Renaissance,Mannerism_Late_Renaissance,High Renaissance → Mannerism Late Renaissance
+religious_painting → religious_painting,138,0.2658959537572254,Mannerism_Late_Renaissance,Baroque,Mannerism Late Renaissance → Baroque
+portrait → portrait,135,0.26011560693641617,Mannerism_Late_Renaissance,Baroque,Mannerism Late Renaissance → Baroque
+religious_painting → genre_painting,51,0.09826589595375723,Mannerism_Late_Renaissance,Baroque,Mannerism Late Renaissance → Baroque
+religious_painting → Unknown Genre,48,0.09248554913294797,Mannerism_Late_Renaissance,Baroque,Mannerism Late Renaissance → Baroque
+Unknown Genre → Unknown Genre,37,0.07129094412331406,Mannerism_Late_Renaissance,Baroque,Mannerism Late Renaissance → Baroque
+religious_painting → portrait,17,0.03275529865125241,Mannerism_Late_Renaissance,Baroque,Mannerism Late Renaissance → Baroque
+Unknown Genre → still_life,13,0.025048169556840076,Mannerism_Late_Renaissance,Baroque,Mannerism Late Renaissance → Baroque
+portrait → Unknown Genre,12,0.023121387283236993,Mannerism_Late_Renaissance,Baroque,Mannerism Late Renaissance → Baroque
+Unknown Genre → religious_painting,11,0.02119460500963391,Mannerism_Late_Renaissance,Baroque,Mannerism Late Renaissance → Baroque
+portrait → genre_painting,10,0.019267822736030827,Mannerism_Late_Renaissance,Baroque,Mannerism Late Renaissance → Baroque
+genre_painting → genre_painting,8,0.015414258188824663,Mannerism_Late_Renaissance,Baroque,Mannerism Late Renaissance → Baroque
+religious_painting → still_life,6,0.011560693641618497,Mannerism_Late_Renaissance,Baroque,Mannerism Late Renaissance → Baroque
+sketch_and_study → sketch_and_study,5,0.009633911368015413,Mannerism_Late_Renaissance,Baroque,Mannerism Late Renaissance → Baroque
+genre_painting → Unknown Genre,4,0.007707129094412331,Mannerism_Late_Renaissance,Baroque,Mannerism Late Renaissance → Baroque
+Unknown Genre → portrait,4,0.007707129094412331,Mannerism_Late_Renaissance,Baroque,Mannerism Late Renaissance → Baroque
+portrait → religious_painting,4,0.007707129094412331,Mannerism_Late_Renaissance,Baroque,Mannerism Late Renaissance → Baroque
+sketch_and_study → Unknown Genre,3,0.005780346820809248,Mannerism_Late_Renaissance,Baroque,Mannerism Late Renaissance → Baroque
+Unknown Genre → genre_painting,2,0.0038535645472061657,Mannerism_Late_Renaissance,Baroque,Mannerism Late Renaissance → Baroque
+sketch_and_study → portrait,1,0.0019267822736030828,Mannerism_Late_Renaissance,Baroque,Mannerism Late Renaissance → Baroque
+sketch_and_study → still_life,1,0.0019267822736030828,Mannerism_Late_Renaissance,Baroque,Mannerism Late Renaissance → Baroque
+Unknown Genre → sketch_and_study,1,0.0019267822736030828,Mannerism_Late_Renaissance,Baroque,Mannerism Late Renaissance → Baroque
+Unknown Genre → nude_painting,1,0.0019267822736030828,Mannerism_Late_Renaissance,Baroque,Mannerism Late Renaissance → Baroque
+sketch_and_study → cityscape,1,0.0019267822736030828,Mannerism_Late_Renaissance,Baroque,Mannerism Late Renaissance → Baroque
+sketch_and_study → genre_painting,1,0.0019267822736030828,Mannerism_Late_Renaissance,Baroque,Mannerism Late Renaissance → Baroque
+genre_painting → portrait,1,0.0019267822736030828,Mannerism_Late_Renaissance,Baroque,Mannerism Late Renaissance → Baroque
+sketch_and_study → religious_painting,1,0.0019267822736030828,Mannerism_Late_Renaissance,Baroque,Mannerism Late Renaissance → Baroque
+genre_painting → still_life,1,0.0019267822736030828,Mannerism_Late_Renaissance,Baroque,Mannerism Late Renaissance → Baroque
+genre_painting → religious_painting,1,0.0019267822736030828,Mannerism_Late_Renaissance,Baroque,Mannerism Late Renaissance → Baroque
+religious_painting → sketch_and_study,1,0.0019267822736030828,Mannerism_Late_Renaissance,Baroque,Mannerism Late Renaissance → Baroque
+portrait → portrait,369,0.3950749464668094,Baroque,Rococo,Baroque → Rococo
+Unknown Genre → portrait,108,0.11563169164882227,Baroque,Rococo,Baroque → Rococo
+genre_painting → genre_painting,83,0.08886509635974305,Baroque,Rococo,Baroque → Rococo
+Unknown Genre → Unknown Genre,73,0.07815845824411134,Baroque,Rococo,Baroque → Rococo
+Unknown Genre → cityscape,29,0.031049250535331904,Baroque,Rococo,Baroque → Rococo
+landscape → landscape,22,0.023554603854389723,Baroque,Rococo,Baroque → Rococo
+portrait → Unknown Genre,20,0.021413276231263382,Baroque,Rococo,Baroque → Rococo
+genre_painting → Unknown Genre,19,0.020342612419700215,Baroque,Rococo,Baroque → Rococo
+religious_painting → genre_painting,19,0.020342612419700215,Baroque,Rococo,Baroque → Rococo
+portrait → sketch_and_study,17,0.018201284796573874,Baroque,Rococo,Baroque → Rococo
+genre_painting → portrait,15,0.016059957173447537,Baroque,Rococo,Baroque → Rococo
+Unknown Genre → genre_painting,15,0.016059957173447537,Baroque,Rococo,Baroque → Rococo
+landscape → Unknown Genre,14,0.014989293361884369,Baroque,Rococo,Baroque → Rococo
+still_life → still_life,14,0.014989293361884369,Baroque,Rococo,Baroque → Rococo
+religious_painting → portrait,13,0.013918629550321198,Baroque,Rococo,Baroque → Rococo
+religious_painting → religious_painting,13,0.013918629550321198,Baroque,Rococo,Baroque → Rococo
+cityscape → cityscape,12,0.01284796573875803,Baroque,Rococo,Baroque → Rococo
+religious_painting → Unknown Genre,11,0.011777301927194861,Baroque,Rococo,Baroque → Rococo
+Unknown Genre → religious_painting,9,0.009635974304068522,Baroque,Rococo,Baroque → Rococo
+Unknown Genre → landscape,9,0.009635974304068522,Baroque,Rococo,Baroque → Rococo
+landscape → genre_painting,8,0.008565310492505354,Baroque,Rococo,Baroque → Rococo
+portrait → genre_painting,5,0.0053533190578158455,Baroque,Rococo,Baroque → Rococo
+still_life → Unknown Genre,5,0.0053533190578158455,Baroque,Rococo,Baroque → Rococo
+genre_painting → landscape,4,0.004282655246252677,Baroque,Rococo,Baroque → Rococo
+Unknown Genre → sketch_and_study,3,0.0032119914346895075,Baroque,Rococo,Baroque → Rococo
+sketch_and_study → portrait,2,0.0021413276231263384,Baroque,Rococo,Baroque → Rococo
+genre_painting → religious_painting,2,0.0021413276231263384,Baroque,Rococo,Baroque → Rococo
+cityscape → Unknown Genre,2,0.0021413276231263384,Baroque,Rococo,Baroque → Rococo
+sketch_and_study → sketch_and_study,2,0.0021413276231263384,Baroque,Rococo,Baroque → Rococo
+religious_painting → still_life,2,0.0021413276231263384,Baroque,Rococo,Baroque → Rococo
+still_life → genre_painting,2,0.0021413276231263384,Baroque,Rococo,Baroque → Rococo
+sketch_and_study → cityscape,1,0.0010706638115631692,Baroque,Rococo,Baroque → Rococo
+genre_painting → illustration,1,0.0010706638115631692,Baroque,Rococo,Baroque → Rococo
+landscape → portrait,1,0.0010706638115631692,Baroque,Rococo,Baroque → Rococo
+religious_painting → sketch_and_study,1,0.0010706638115631692,Baroque,Rococo,Baroque → Rococo
+still_life → religious_painting,1,0.0010706638115631692,Baroque,Rococo,Baroque → Rococo
+landscape → cityscape,1,0.0010706638115631692,Baroque,Rococo,Baroque → Rococo
+religious_painting → cityscape,1,0.0010706638115631692,Baroque,Rococo,Baroque → Rococo
+cityscape → landscape,1,0.0010706638115631692,Baroque,Rococo,Baroque → Rococo
+sketch_and_study → genre_painting,1,0.0010706638115631692,Baroque,Rococo,Baroque → Rococo
+portrait → religious_painting,1,0.0010706638115631692,Baroque,Rococo,Baroque → Rococo
+sketch_and_study → Unknown Genre,1,0.0010706638115631692,Baroque,Rococo,Baroque → Rococo
+landscape → sketch_and_study,1,0.0010706638115631692,Baroque,Rococo,Baroque → Rococo
+nude_painting → nude_painting,1,0.0010706638115631692,Baroque,Rococo,Baroque → Rococo
