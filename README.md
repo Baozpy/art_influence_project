@@ -76,26 +76,7 @@ art_influence_project/
 │
 ├── scripts/
 │   ├── 00_check_dataset.py
-│   ├── 01_build_metadata_clean.py
-│   ├── 02_make_research_subset.py
-│   ├── 03_extract_clip_embeddings.py
-│   ├── 04_clip_retrieval_case_study.py
-│   ├── 05_style_similarity_matrix.py
-│   ├── 06_cross_style_retrieval_flow.py
-│   ├── 07_style_order_flow_network.py
-│   ├── 07b_style_flow_network_pretty.py
-│   ├── 08_religious_only_flow.py
-│   ├── 09_normalized_incoming_flow.py
-│   ├── 10_compare_full_vs_religious_flow.py
-│   ├── 11_strong_edge_contact_sheets.py
-│   ├── 12_compute_phash_duplicates.py
-│   ├── 13_style_order_flow_network_dedup.py
-│   ├── 14_strong_edge_contact_sheets_dedup.py
-│   ├── 15_strong_edge_contact_sheets_diverse.py
-│   ├── 16_top1_predecessor_flow.py
-│   ├── 17_religious_top1_predecessor_flow.py
-│   ├── 18_edge_genre_composition.py
-│   └── 19_pretty_religious_top1_network.py
+│   ├── ....
 │
 ├── requirements.txt
 └── README.md
