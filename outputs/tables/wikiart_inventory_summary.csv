@@ -1,0 +1,2 @@
+num_total_samples,columns,num_sampled,num_artists_in_sample,num_genres_in_sample,num_styles_in_sample
+81444,"image, artist, genre, style",5000,24,11,16
