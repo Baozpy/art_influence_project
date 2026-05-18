@@ -1,0 +1,17 @@
+source_style,target_style,edge_count,mean_similarity,target_count,edge_rate_per_target
+Baroque,Rococo,3603,0.8432518927018047,1200,3.0025
+Early_Renaissance,Baroque,398,0.838724896686161,1200,0.33166666666666667
+Early_Renaissance,High_Renaissance,3686,0.867390666587548,1200,3.0716666666666668
+Early_Renaissance,Mannerism_Late_Renaissance,1088,0.8618997118490583,1200,0.9066666666666666
+Early_Renaissance,Northern_Renaissance,2759,0.8502315131163588,1200,2.299166666666667
+Early_Renaissance,Rococo,117,0.8444969170113914,1200,0.0975
+High_Renaissance,Baroque,1237,0.8457576357846117,1200,1.0308333333333333
+High_Renaissance,Mannerism_Late_Renaissance,3354,0.864105404151929,1200,2.795
+High_Renaissance,Northern_Renaissance,2858,0.8456661894114557,1200,2.381666666666667
+High_Renaissance,Rococo,323,0.8499882186160368,1200,0.26916666666666667
+Mannerism_Late_Renaissance,Baroque,2362,0.8493460093788128,1200,1.9683333333333333
+Mannerism_Late_Renaissance,Rococo,774,0.8531983350752552,1200,0.645
+Northern_Renaissance,Baroque,1297,0.836722441471441,1200,1.0808333333333333
+Northern_Renaissance,High_Renaissance,1985,0.8576348516142338,1200,1.6541666666666666
+Northern_Renaissance,Mannerism_Late_Renaissance,1443,0.8533064139773262,1200,1.2025
+Northern_Renaissance,Rococo,267,0.8317549407258908,1200,0.2225
