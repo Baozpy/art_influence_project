@@ -6,10 +6,10 @@ matplotlib
 seaborn
 pyarrow
 datasets
-torch>=2.4
-torchvision
-torchaudio
-transformers
+torch==2.2.2
+torchvision==0.17.2
+torchaudio==2.2.2
+transformers==4.40.2
 accelerate
 scikit-learn
 faiss-cpu
