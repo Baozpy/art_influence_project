@@ -13,3 +13,4 @@ transformers==4.40.2
 accelerate
 scikit-learn
 faiss-cpu
+imagehash
